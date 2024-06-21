@@ -1,4 +1,4 @@
-# DataScienceGuidedCapstone
+# Big Mountain Resort Ticket Price Prediction
 
 Hello students!
 Welcome to the Data Science Guided Capstone! 
